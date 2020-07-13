@@ -7,3 +7,4 @@ random_number = random.randint(1, 10)  # numbers 1 - 10
 #     otherwise tell them if they are too high or too low
 
 # BONUS - let player play again if they want!
+print("Antunovi prvi koraci u Git i GitHub")
