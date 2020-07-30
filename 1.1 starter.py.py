@@ -1,4 +1,5 @@
 import random
+# kom za git
 
 random_number = random.randint(1, 10)  # numbers 1 - 10
 
